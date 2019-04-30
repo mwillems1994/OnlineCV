@@ -5,7 +5,6 @@ import Projects from './Components/Projects'
 import Experience from "./Components/Experience";
 import Education from "./Components/Education";
 
-import 'bootstrap/dist/css/bootstrap.css';
 import './Styles/styles.scss'
 
 function App() {
